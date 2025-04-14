@@ -92,3 +92,17 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Today's Latin Pop (1080p)
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Urban Beat (1080p)
+#EXTM3U
+#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="QC",LANGUAGE="fr",NAME="TVA",DEFAULT=NO,AUTOSELECT=YES,INSTREAM-ID="CC1"
+#EXT-X-STREAM-INF:BANDWIDTH=4340939,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,CLOSED-CAPTIONS="c608-0"
+https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4340939,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,CLOSED-CAPTIONS="c608-0"
+https://tvalive.akamaized.net/hls/live/2012413-b/tva01/high_1080p/high_1080p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1071374,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,CLOSED-CAPTIONS="c608-0"
+https://tvalive.akamaized.net/hls/live/2012413/tva01/low_720p/low_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1071374,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,CLOSED-CAPTIONS="c608-0"
+https://tvalive.akamaized.net/hls/live/2012413-b/tva01/low_720p/low_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1786591,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,CLOSED-CAPTIONS="c608-0"
+https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1786591,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,CLOSED-CAPTIONS="c608-0"
+https://tvalive.akamaized.net/hls/live/2012413-b/tva01/med_720p/med_720p.m3u8
